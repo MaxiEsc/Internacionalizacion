@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internationalization</string>
+    <string name="title">Log in your session</string>
+    <string name="username">Key your User</string>
+    <string name="password">Key your Password</string>
+    <string name="in">Enter</string>
+    <string name="allrights">All rights reserved</string>
+    <string name="void_char"></string>
+</resources>

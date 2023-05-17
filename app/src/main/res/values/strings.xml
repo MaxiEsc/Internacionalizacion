@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Internacionalización</string>
+    <string name="title">Ingresar sesión</string>
+    <string name="username">Ingrese su Usuario</string>
+    <string name="password">Ingrese su Contraseña</string>
+    <string name="in">Ingresar</string>
+    <string name="allrights">Todos los derechos reservados</string>
+    <string name="void_char"></string>
+</resources>
